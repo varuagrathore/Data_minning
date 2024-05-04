@@ -16,6 +16,9 @@ b) Manhattan Distance
 c) Minkowski Distance
 d) Cosine Similarity
 
+Lab10
+Compare various boosting methods (Gradient boosting, XGboost, Adaboost, CAT boost) on given dataset https://www.kaggle.com/datasets/saurabhshahane/seoul-bike-trip-duration-prediction
+
 LAB6
 Two programs to implement
 
