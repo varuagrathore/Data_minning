@@ -17,3 +17,9 @@ c) Minkowski Distance
 d) Cosine Similarity
 
 LAB6
+Two programs to implement
+
+Apply apriori algorithm by importing apriori from mlxtend library
+Manually implement apriori algorithm
+
+
